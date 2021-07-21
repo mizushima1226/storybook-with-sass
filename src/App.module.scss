@@ -1,0 +1,5 @@
+@use "./utils.scss" as u;
+
+.greet {
+  color: u.$primary;
+}
